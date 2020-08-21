@@ -1,16 +1,13 @@
-### Hi there 👋
+# Emanuel Corrêa
 
-<!--
-**emanuelcorrea/emanuelcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer in @dra.cherie (IG).
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@emanueelcorrea-ff69b4?style=flat-square&labelColor=403f3b&logo=Twitter&logoColor=white&link=https://twitter.com/emanueelcorrea)](https://twitter.com/emanueelcorrea)
+[![Linkedin Badge](https://img.shields.io/badge/-emanuelcorrea-ff69b4?style=flat-square&labelColor=403f3b&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-correa/)](https://www.linkedin.com/in/emanuel-correa/) 
+[![Gmail Badge](https://img.shields.io/badge/-emanuel.silvati@gmail.com-ff69b4?style=flat-square&labelColor=403f3b&logo=Gmail&logoColor=white&link=mailto:emanuel.silvati@gmail.com)](mailto:emanuel.silvati@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> A developer who sees beauty in the code.
+
+Starting to develop for web about two years ago and it makes me discovered a new world.
+
+"*If you show people the problems and you show people the solutions, they will be moved to act*"
