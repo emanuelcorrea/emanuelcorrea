@@ -9,5 +9,11 @@ Web Developer in @dra.cherie (IG).
 > A developer who sees beauty in the code.
 
 Starting to develop for web about two years ago and it makes me discovered a new world.
+<br>
 
-"*If you show people the problems and you show people the solutions, they will be moved to act*"
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emanuelcorrea&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs,prs)](https://github.com/emanuelcorrea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcorrea&layout=compact&hide=pascal&theme=dracula)](https://github.com/emanuelcorrea/github-readme-stats)
+
+
+"*If you show people the problems and you show people the solutions, they will be moved to act!*"
+🤩
