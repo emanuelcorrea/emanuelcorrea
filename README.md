@@ -9,6 +9,7 @@ Web Developer in @dra.cherie (IG).
 > A developer who sees beauty in the code.
 
 Starting to develop for web about two years ago and it makes me discovered a new world.
+
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emanuelcorrea&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=contribs,issues)](https://github.com/emanuelcorrea/)
