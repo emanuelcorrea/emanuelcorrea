@@ -18,3 +18,4 @@ Starting to develop for web about two years ago and it makes me discovered a new
 
 "*If you show people the problems and you show people the solutions, they will be moved to act!*"
 🤩
+ 
