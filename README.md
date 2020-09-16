@@ -2,9 +2,9 @@
 
 Web Developer in @dra.cherie (IG).
 
-[![Twitter Badge](https://img.shields.io/badge/-@emanueelcorrea-ff69b4?style=flat-square&labelColor=403f3b&logo=Twitter&logoColor=white&link=https://twitter.com/emanueelcorrea)](https://twitter.com/emanueelcorrea)
-[![Linkedin Badge](https://img.shields.io/badge/-emanuelcorrea-ff69b4?style=flat-square&labelColor=403f3b&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-correa/)](https://www.linkedin.com/in/emanuel-correa/) 
-[![Gmail Badge](https://img.shields.io/badge/-emanuel.silvati@gmail.com-ff69b4?style=flat-square&labelColor=403f3b&logo=Gmail&logoColor=white&link=mailto:emanuel.silvati@gmail.com)](mailto:emanuel.silvati@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@emanueelcorrea-403f3b?labelColor=52504b&logo=Twitter&logoColor=white&link=https://twitter.com/emanueelcorrea)](https://twitter.com/emanueelcorrea)
+[![Linkedin Badge](https://img.shields.io/badge/-emanuelcorrea-403f3b?&labelColor=52504b&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-correa/)](https://www.linkedin.com/in/emanuel-correa/) 
+[![Gmail Badge](https://img.shields.io/badge/-emanuel.silvati@gmail.com-403f3b?&labelColor=52504b&logo=Gmail&logoColor=white&link=mailto:emanuel.silvati@gmail.com)](mailto:emanuel.silvati@gmail.com) 
 
 > A developer who sees beauty in the code.
 
