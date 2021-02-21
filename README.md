@@ -1,4 +1,4 @@
-# Emanuel Corrêa
+![header](https://capsule-render.vercel.app/api?type=wave&color=DD6387&height=300&section=header&text=Emanuel%20Corrêa&fontSize=80&animation=fadeIn&fontColor=fff)
 
 Web Developer in @dra.cherie (IG).
 
