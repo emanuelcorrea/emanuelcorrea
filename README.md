@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=DD6387&height=300&section=header&text=Emanuel%20Correa&fontSize=80&animation=fadeIn&fontColor=fff)
 
-Web Developer in @dra.cherie (IG).
+Systems Analyst at Ab Inbev - BEES.
 
 [![Twitter Badge](https://img.shields.io/badge/-@emanueelcorrea-403f3b?labelColor=52504b&logo=Twitter&logoColor=white&link=https://twitter.com/emanueelcorrea)](https://twitter.com/emanueelcorrea)
 [![Linkedin Badge](https://img.shields.io/badge/-emanuelcorrea-403f3b?&labelColor=52504b&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-correa/)](https://www.linkedin.com/in/emanuel-correa/) 
-[![Gmail Badge](https://img.shields.io/badge/-emanuel.silvati@gmail.com-403f3b?&labelColor=52504b&logo=Gmail&logoColor=white&link=mailto:emanuel.silvati@gmail.com)](mailto:emanuel.silvati@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-emanuel.silvati@gmail.com-403f3b?&labelColor=52504b&logo=Gmail&logoColor=white&link=mailto:emanuel.silvati@gmail.com)](mailto:emanueldascorrea@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femanuelcorrea&count_bg=%23DD6387&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)](https://github.com/emanueelcorrea)
 
 > A developer who sees beauty in the code.
